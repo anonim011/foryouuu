@@ -1,0 +1,117 @@
+.titleUp{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 370%;
+    font-weight:bold;
+}
+
+.textOne{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 220%;
+    color: white;
+    margin-top: -30px;
+}
+
+.star h5{
+    font-family: 'Patrick Hand', cursive;
+    margin-bottom: 3px;
+}
+
+.textFour{
+    font-family: 'Patrick Hand', cursive;   
+}
+
+.titleName h1{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.about{
+    width: 55%;
+    margin-left: 90px;
+}
+
+.sectionName1{
+    text-align: justify;
+}
+
+.sectionName2{
+    text-align: center;
+    margin-top: -30px;
+    font-style: italic;
+}
+
+.sectionName4{
+    text-align: justify;
+    margin-top: -5px;
+    line-height: 1;
+    text-indent: 2%;
+}
+
+.sectionName3{
+    text-align: justify;
+    margin-top: -5px;
+    line-height: 1;
+}
+
+.containn{
+    padding: 40px;
+}
+
+.textNew{
+    margin-top: -60px;
+}
+
+
+
+@media screen and (min-width: 550px){
+    .titleUp{
+        color: white;
+        font-family: 'Dancing Script', cursive;
+        font-size: 70px;
+        font-weight: bolder;
+        margin-top: -70px;
+    }
+    
+    .textOne{
+        font-family: 'Patrick Hand', cursive;
+        font-size: 60px;
+        color: white;
+        margin-top: -40px;
+    }
+
+.textFour{
+    font-size: 40px;
+}
+
+    .titleName h1{
+        font-family: 'Dancing Script', cursive;
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    .about{
+        width: 45%;
+        margin: 0%;
+    }
+
+    .sectionName1{
+        text-align:center;
+    }
+
+    .sectionName3{
+        text-align: justify;
+        margin-top: -5px;
+        line-height: 1;
+    }
+
+    .containn{
+        padding: 30px;
+    }
+
+    .textNew{
+        margin-top: -60px;
+        margin-right: -80px;
+    }
+}
